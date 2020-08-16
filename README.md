@@ -6,4 +6,4 @@
 3. [伪极简主义者的物品清单](https://github.com/gy134340/blog/issues/5)
 4. [学习英语的一些心得](https://github.com/gy134340/blog/issues/6)
 5. [Debug 的一些经验](https://github.com/gy134340/blog/issues/7)
-
+6. [how to make ideas stick](https://github.com/gy134340/blog/issues/10)
