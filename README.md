@@ -7,4 +7,4 @@
 4. [学习英语的一些心得](https://github.com/gy134340/blog/issues/6)
 5. [Debug 的一些经验](https://github.com/gy134340/blog/issues/7)
 6. [how to make ideas stick](https://github.com/gy134340/blog/issues/10)
-7. [写 PPT (Keynote) 与整理文档 ](https://github.com/gy134340/blog/issues/11)
+7. [写 PPT (Keynote) 与文档 ](https://github.com/gy134340/blog/issues/11)
