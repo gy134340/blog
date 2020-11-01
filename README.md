@@ -8,3 +8,4 @@
 5. [Debug 的一些经验](https://github.com/gy134340/blog/issues/7)
 6. [how to make ideas stick](https://github.com/gy134340/blog/issues/10)
 7. [写 PPT (Keynote) 与文档 ](https://github.com/gy134340/blog/issues/11)
+7. [Thinking in developer career](https://github.com/gy134340/blog/issues/12)
