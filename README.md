@@ -9,4 +9,4 @@
 6. [How to make ideas stick](https://github.com/gy134340/blog/issues/10)
 7. [写 PPT (Keynote) 与文档 ](https://github.com/gy134340/blog/issues/11)
 8. [Thinking in developer career](https://github.com/gy134340/blog/issues/12)
-9. [为什么上线后总会有 bug？](https://github.com/gy134340/blog/issues/13)
+9. [如何提高交付质量](https://github.com/gy134340/blog/issues/13)
