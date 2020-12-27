@@ -10,4 +10,3 @@
 7. [写 PPT (Keynote) 与文档 ](https://github.com/gy134340/blog/issues/11)
 8. [Thinking in developer career](https://github.com/gy134340/blog/issues/12)
 9. [如何提高交付质量](https://github.com/gy134340/blog/issues/13)
-10. [如何面试一个人](https://github.com/gy134340/blog/issues/14)
