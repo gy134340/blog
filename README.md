@@ -17,7 +17,7 @@
 1. [简单](https://github.com/gy134340/blog/issues/21)
 2. 务实
 4. 人性是黑暗的
-5. 竞争
+5. [竞争](https://github.com/gy134340/blog/issues/22)
 6. 存在爱情 or 不存在爱情
 2. 关于信息分级
 7. 保持身体健康
