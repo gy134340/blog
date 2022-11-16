@@ -12,7 +12,7 @@
 9. [如何提高交付质量](https://github.com/gy134340/blog/issues/13)
 12. [Speed Reading](https://github.com/gy134340/blog/issues/16)
 
-二、哲学观点和思考等等
+二、观点和思考等等
 1. [世界是完全客观的](https://github.com/gy134340/blog/issues/20)
 1. [简单](https://github.com/gy134340/blog/issues/21)
 2. 务实
