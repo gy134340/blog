@@ -18,12 +18,10 @@
 2. 务实
 4. 人性是黑暗的
 5. [竞争](https://github.com/gy134340/blog/issues/22)
-6. 存在爱情 or 不存在爱情
 2. 关于信息分级
 7. 保持身体健康
 8. 投资
 9. 读书
-10. 社会主义和资本主义
 11. [我最欣赏的人](https://github.com/gy134340/blog/issues/18)
 11. [推荐几本书](https://github.com/gy134340/blog/issues/19)
 12. 自我沉溺与关注外面的世界
