@@ -18,7 +18,7 @@
 2. 务实
 4. 人性是黑暗的
 5. [竞争](https://github.com/gy134340/blog/issues/22)
-2. 关于信息分级
+2. [关于信息分级](https://github.com/gy134340/blog/issues/24)
 7. 保持身体健康
 8. 投资
 9. 读书
