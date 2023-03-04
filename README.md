@@ -15,19 +15,10 @@
 二、观点和思考等等
 1. [世界是完全客观的](https://github.com/gy134340/blog/issues/20)
 1. [简单](https://github.com/gy134340/blog/issues/21)
-2. 务实
-4. 人性是黑暗的
 5. [竞争](https://github.com/gy134340/blog/issues/22)
 2. [关于信息分级](https://github.com/gy134340/blog/issues/24)
-7. 保持身体健康
-8. 投资
 9. [读书](https://github.com/gy134340/blog/issues/25)
 11. [我最欣赏的人](https://github.com/gy134340/blog/issues/18)
 11. [推荐几本书](https://github.com/gy134340/blog/issues/19)
-12. 自我沉溺与关注外面的世界
-13. 理性与辩证思考
-14. 孔教与犬儒主义
-15. 有趣的问题，阿美利坚会怎样衰落
 16. [有趣的问题，怎样才能救中国](https://github.com/gy134340/blog/issues/23)
-17. YOLO
 
