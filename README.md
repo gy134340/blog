@@ -21,4 +21,5 @@
 11. [我最欣赏的人](https://github.com/gy134340/blog/issues/18)
 11. [推荐几本书](https://github.com/gy134340/blog/issues/19)
 16. [有趣的问题，怎样才能救中国](https://github.com/gy134340/blog/issues/23)
+17. [常识](https://github.com/gy134340/blog/issues/26)
 
