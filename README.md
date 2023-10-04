@@ -20,4 +20,5 @@
 11. [推荐几本书](https://github.com/gy134340/blog/issues/19)
 16. [有趣的问题，怎样才能救中国](https://github.com/gy134340/blog/issues/23)
 17. [常识](https://github.com/gy134340/blog/issues/26)
+18. [如何谈判](https://github.com/gy134340/blog/issues/27)
 
