@@ -22,3 +22,8 @@
 17. [常识](https://github.com/gy134340/blog/issues/26)
 18. [如何谈判](https://github.com/gy134340/blog/issues/27)
 
+三、当作家的程序员
+
+一个好的 engieer 也许成为一个好 writer，此分类可以迭代一些 writing
+
+1. 暂无
