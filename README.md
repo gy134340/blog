@@ -24,6 +24,6 @@
 
 三、当作家的程序员
 
-一个好的 engieer 也许成为一个好 writer，此分类可以迭代一些 writing
+一个好的 engieer 也可以成为一个好 writer，此分类可以迭代一些 writing
 
 1. 暂无
