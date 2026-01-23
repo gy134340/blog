@@ -27,3 +27,4 @@
 一个好的 engieer 也可以成为一个好 writer，此分类可以迭代一些 writing
 
 1. [摩托车维修与薯条烹饪艺术](https://github.com/gy134340/blog/issues/28)
+2. [给女朋友的诗](https://github.com/gy134340/blog/issues/29)
